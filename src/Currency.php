@@ -9,7 +9,7 @@
  */
 
 namespace SebastianBergmann\Money;
-
+ 
 /**
  * Value Object that represents a currency.
  *
