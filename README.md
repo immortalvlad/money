@@ -6,6 +6,7 @@
 
 # Money3
 
+
 [Value Object](http://martinfowler.com/bliki/ValueObject.html) that represents a [monetary value using a currency's smallest unit](http://martinfowler.com/eaaCatalog/money.html).
 
 ## Installation
