@@ -4,7 +4,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sebastianbergmann/money/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sebastianbergmann/money/?branch=master)
 [![Reference Status](https://www.versioneye.com/php/sebastian:money/reference_badge.svg?style=flat)](https://www.versioneye.com/php/sebastian:money/references)
 
-# Money
+# Money3
 
 [Value Object](http://martinfowler.com/bliki/ValueObject.html) that represents a [monetary value using a currency's smallest unit](http://martinfowler.com/eaaCatalog/money.html).
 
